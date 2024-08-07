@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ahsen.official01@gmail.com
 - 😄 Pronouns: Ahsen
-- ⚡ Fun fact: I think I'm Hard Working!
+- ⚡ Fun fact: Love reading books!
 
 <!---
 Ahsen-Official/Ahsen-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
