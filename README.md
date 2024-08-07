@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahsen-Official
+- 👋 Hi, I’m Ahsen
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning React, Node.js, Express, MongoDB, Html/Css/JavaScript, MySQL, Firebase and other web development technonogies
 - 💞️ I’m looking to collaborate on web projects
